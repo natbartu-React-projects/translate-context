@@ -4,7 +4,7 @@ class Field extends React.Component {
   render() {
     return (
       <div className="ui field">
-        <label>Name</label>
+        <label>Please, text on the field below: </label>
         <input />
       </div>
     );
